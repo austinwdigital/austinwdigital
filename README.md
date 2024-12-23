@@ -34,4 +34,7 @@ This is a **new profile**, and I'm excited to share my work. Looking forward to 
 
 
 ## 📚 Currently Learning
-- 🎮 Exploring **Unreal Editor for Fortnite** to dive deeper into interactive experiences and game development.
+- I'm diving into Prisma for database management and Playwright for end-to-end testing. Excited to expand my toolkit and build more robust, scalable web applications!
+
+## 💻 Currently Working On
+- I'm working on my VSCode extension, aiming to publish it before the end of the year. Excited to share a tool that enhances developer workflows!
