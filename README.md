@@ -6,6 +6,9 @@ I'm a **Full Stack Developer** and **UI/UX Designer** with a passion for creatin
 ## 🚀 New Account
 This is a **new profile**, and I'm excited to share my work. Looking forward to building and collaborating with others in the community!
 
+## 📦 Repos
+Currently have 40+ repositories but most are private. Will be making a lot of them public soon.
+
 ## 💾 Some Technologies I Work With
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,4 +40,4 @@ This is a **new profile**, and I'm excited to share my work. Looking forward to 
 - I'm diving into Prisma for database management and Playwright for end-to-end testing. Excited to expand my toolkit and build more robust, scalable web applications!
 
 ## 💻 Currently Working On
-- I'm working on my VSCode extension, aiming to publish it before the end of the year. Excited to share a tool that enhances developer workflows!
+- I'm working on my VSCode extension. Excited to share a tool that enhances developer workflows!
