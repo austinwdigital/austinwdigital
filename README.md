@@ -112,5 +112,5 @@ This is a **new account** where I'm beginning to open source selected tools, pro
 ---
 
 ## Connect
-![[Dev.to blog](https://dev.to/austinwdigital)](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![[LinkedIn](www.linkedin.com/in/austinwdigital)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/austinwdigital)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austinwdigital)
