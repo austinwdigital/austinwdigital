@@ -32,7 +32,7 @@ This is a **new account** where I'm beginning to open source selected tools, pro
 
 ---
 
-## 💾 Some Technologies I Work With
+## 💾 Technologies
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -112,5 +112,5 @@ This is a **new account** where I'm beginning to open source selected tools, pro
 ---
 
 ## Connect
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![[Dev.to blog](https://dev.to/austinwdigital)](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![[LinkedIn](www.linkedin.com/in/austinwdigital)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
