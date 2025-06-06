@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 ### Current Role
-Senior Creative Developer @ Disney's Yellow Shoes
+Senior Full Stack Develoer @ Disney's Yellow Shoes
 
 ### Bio
 Solo software engineer designing and building internal creative applications, immersive experiences, and creative infrastructure for some of the most iconic brands in the world. I work across the full stack — from UX to infrastructure — creating systems that support creative and strategic teams. My focus is on tools that empower people: platforms that streamline production, data systems that unlock insight, and interfaces that elevate storytelling.
