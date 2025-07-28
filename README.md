@@ -3,13 +3,13 @@
 ## 🧑‍💻 About Me
 
 ### Current Role
-Senior Creative Develoer @ Disney - Communications
+Senior Creative Develoer @ Disney - Communications : 2025
 
 ### Previous Roles
-- Senior Full Stack Developer @ Disney's Yellow Shoes
-- Full Stack Developer @ Disney Consumer Insights
-- Web Application Developer @ University of Central Florida
-- Technician @ Apple
+- Senior Full Stack Developer @ Disney - Yellow Shoes Creative Group : 2022
+- Full Stack Developer @ Disney - Consumer Insights, Measurements and Analytics : 2020
+- Web Application Developer @ University of Central Florida : 2018
+- Technician @ Apple : 2015
 
 ### Bio
 Solo software engineer designing and building internal creative applications, immersive experiences, and creative infrastructure for some of the most iconic brands in the world. I work across the full stack — from UX to infrastructure — creating systems that support creative and strategic teams. My focus is on tools that empower people: platforms that streamline production, data systems that unlock insight, and interfaces that elevate storytelling.
