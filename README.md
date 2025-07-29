@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 ### Current Role
-Senior Creative Develoer @ Disney - Communications : 2025
+Senior Creative Developer @ Disney - Communications : 2025
 
 ### Previous Roles
 - Senior Full Stack Developer @ Disney - Yellow Shoes Creative Group : 2022
