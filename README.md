@@ -106,7 +106,7 @@ This is a **new account** where I'm beginning to open source selected tools, pro
 
 ### 3D and Virtual Reality
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&style=for-the-badge)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
