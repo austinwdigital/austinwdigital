@@ -12,10 +12,10 @@ Senior Creative Developer @ Disney - Communications : 2025
 - Technician @ Apple : 2015
 
 ### Bio
-Solo software engineer designing and building internal creative applications, immersive experiences, and creative infrastructure for some of the most iconic brands in the world. I work across the full stack — from UX to infrastructure — creating systems that support creative and strategic teams. My focus is on tools that empower people: platforms that streamline production, data systems that unlock insight, and interfaces that elevate storytelling.
+Senior Creative Developer at Disney designing and building platforms, applications, tooling, and immersive experiences for some of the most iconic brands in the world. I work across the full stack — from UX to infrastructure — creating systems that support creative and technical teams. My focus is on tools that empower creatives, platforms that streamline production, data systems that unlock insight, and interfaces that elevate storytelling.
 
 ### Work
-My work powers platforms for:
+My work supports:
 - Disney Parks & Resorts
 - Star Wars
 - National Geographic Expeditions
